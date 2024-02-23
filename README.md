@@ -5,6 +5,10 @@
 - 📫 You can contact me at sudhakarsdk98@gmail.com.
 - ⚡ Fun fact: Melding Civil engineering finesse with a fervent programming zeal, I adeptly conjure both tangible and digital solutions with passion.
 ---
-## Capabilities
+## Capabilities...
 
 [`Java`] [`Selenium jJava`] [`Python`] [`html`] [`SQL`]
+
+## Tools...
+
+`Apache Maven` `Git` `Apache POI` `Jenkins CI/CD`
