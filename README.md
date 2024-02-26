@@ -7,7 +7,10 @@
 ---
 ## Capabilities...
 
-[`Java`] [`Selenium jJava`] [`Python`] [`html`] [`SQL`]
+[`Java`] [`Selenium Java`] [`Python`] [`html`] [`SQL`]
+
+## Automations Frameworks....
+`TestNG` `Cucumber` `Serenity` `Page Object Model POM` `Hybrid` `Cucumber-TestNG` `Serenity-Cucumber`
 
 ## Tools...
 
