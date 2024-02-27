@@ -1,5 +1,5 @@
 # 👋 Greetings, I’m SUDHAKAR
-- 👀 I'm a recent professional adept in both manual and automation testing.
+- 👀 I'm a fresh professional adept in both manual and automation testing.
 - 🌱 Currently enhancing my skills in *full-stack Java* development.
 - 💞️ Open to collaborating on projects with a focus on practical applications.
 - 📫 You can contact me at sudhakarsdk98@gmail.com.
