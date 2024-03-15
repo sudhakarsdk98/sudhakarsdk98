@@ -7,8 +7,8 @@
 ---
 ## Check out :
 ### [Manual Testing] - ([Manual Testing/ReadMe.md](https://github.com/sudhakarsdk98/SDET/blob/ba67228f6251c0992de29651fa9246c637588b20/Manual%20Testing/ReadMe.md))
----
-### [Automation Testing] - [Automation Testing](Automation Testing)
+
+### [Automation Testing] - ([Automation Testing](https://github.com/sudhakarsdk98/SDET/tree/ba67228f6251c0992de29651fa9246c637588b20/Automation%20Testing))
 
 ---
 ## Capabilities...
