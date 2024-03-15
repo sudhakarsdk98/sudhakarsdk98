@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Melding Civil engineering finesse with a fervent programming zeal, I adeptly conjure both tangible and digital solutions with passion.
 ---
 ## Check out :
-### [Manual Testing] - Manual Testing
+### [Manual Testing] - [Manual Testing](Manual Testing/ReadMe.md)
 
 
 ---
