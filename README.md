@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Melding Civil engineering finesse with a fervent programming zeal, I adeptly conjure both tangible and digital solutions with passion.
 ---
 ## Check out :
-### [Manual Testing] - ([Manual Testing/ReadMe.md](https://github.com/sudhakarsdk98/SDET/blob/aaaa3e6af3056f39e484c260fb63e4f11edb8d60/Manual%20Testing/ReadMe.md))
+### [Manual Testing] - ([Manual Testing/ReadMe.md](https://github.com/sudhakarsdk98/SDET/blob/22672caf05b6798b7ae1c6a74884f39667296a5c/Manual%20Testing/ReadMe.md))
 
 ### [Automation Testing] - ([Automation Testing](https://github.com/sudhakarsdk98/SDET/tree/ba67228f6251c0992de29651fa9246c637588b20/Automation%20Testing))   & ([Automation Project](https://github.com/sudhakarsdk98/SDETBatch.git))
 
